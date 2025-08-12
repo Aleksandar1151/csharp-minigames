@@ -39,5 +39,5 @@
 
 ## Spojnice
 <div align="center">
-  <img src="screenshots/SpoojniceApp.png" alt="Spoojnice" width="500">
+  <img src="screenshots/SpojniceApp.png" alt="Spojnice" width="500">
 </div>
